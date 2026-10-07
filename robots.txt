@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://motambeareafarmers.com/sitemap.xml
